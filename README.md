@@ -28,10 +28,9 @@ This project aims to provide insights for the Products Strategy Team .
 ### Data Sources
 The primary dataset used for this analysis is the dim_customers and fact_spends files, containing  detailed information about customers and their spending.
 
-### Tools
+### Tools Used
 
 - Excel
-- SQL
 - Microsoft Power Bi
   
 ### Data Preparation
