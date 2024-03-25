@@ -10,7 +10,7 @@
 
 4. [Data Preparation](#Data-Preparation)
 
-5. [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
+5. [Exploratory Data Analysis(EDA)](#Exploratory-Data-Analysis)
 
 
 ### Project Overview
