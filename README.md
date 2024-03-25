@@ -31,11 +31,12 @@ The primary dataset used for this analysis is the dim_customers and fact_spends 
 ### Tools Used
 
 - Excel
+- SQL
 - Microsoft Power Bi
   
 ### Data Preparation
 
-In the initial data preparation phase, i performed the following task:
+In the initial data preparation phase, i performed the following tasks:
 
   1. Data Loading and Transformation
   2. Data Cleaning and formatting
@@ -46,9 +47,3 @@ EDA involved exploring the dim_customers and fact_spends data to answer key ques
   1. Customer Demographics
   2. Average Income Utilization
   3. Spending Insights
-
-### Data Analysis
-
-### Findings
-
-### Recommendations
