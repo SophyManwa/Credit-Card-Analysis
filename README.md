@@ -12,11 +12,6 @@
 
 5. [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
 
-6. [Data Analysis](#Data-Analysis)
-
-7. [Findings](#Findings)
-
-8. [Recommendations](#Recommendations)
 
 ### Project Overview
 
